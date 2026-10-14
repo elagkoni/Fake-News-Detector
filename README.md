@@ -4,14 +4,14 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 This project was developed as the second assignment for the **Data Mining Techniques** course at the National and Kapodistrian University of Athens. 
 
 It focuses on analyzing news articles and building machine learning models to distinguish between fake and true news.
 
 ---
 
-## 🚀 Objectives
+## Objectives
 - **Data Analysis:** Explore and visualize fake and true news articles.
 - **Text Preprocessing:** Clean and prepare text data for classification.
 - **Text Representation:** Use BoW, TF-IDF, and Word2Vec.
@@ -20,7 +20,7 @@ It focuses on analyzing news articles and building machine learning models to di
 
 ---
 
-## 💻 Notebook Viewer
+## Notebook Viewer
 
 If the notebook does not open properly directly on GitHub, you can easily view it through **Jupyter nbviewer**:
 
