@@ -26,4 +26,4 @@ If the notebook does not open properly directly on GitHub, you can easily view i
 
 - Visit [https://nbviewer.org/](https://nbviewer.org/)
 - Paste the link to the notebook: 
-  *(https://github.com/elelagk/Fake-News-Detector/blob/main/fake_news_detection.ipynb)*
+  *(https://github.com/elagkoni/Fake-News-Detector/blob/main/fake_news_detection.ipynb)*
